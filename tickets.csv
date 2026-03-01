@@ -1,0 +1,16 @@
+ticket_text,category,priority
+"My internet is not working since morning",Technical Issue,High
+"I was charged twice for my subscription",Billing,High
+"How do I reset my password?",Account,Medium
+"Please update my email address",Account,Low
+"The app keeps crashing when I open it",Technical Issue,High
+"I want to know about your pricing plans",General Query,Low
+"My payment failed but money was deducted",Billing,High
+"I cannot login to my account",Account,High
+"Feature request: add dark mode",General Query,Low
+"Server error 500 while accessing dashboard",Technical Issue,High
+"I need invoice copy for last month",Billing,Medium
+"How to upgrade my plan?",General Query,Medium
+"My profile picture is not updating",Technical Issue,Medium
+"Refund my recent transaction",Billing,High
+"I forgot my password and security answer",Account,High
